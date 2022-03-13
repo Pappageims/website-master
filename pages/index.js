@@ -11,13 +11,12 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Atkaalto on testo!" />
+        <Header title="AtkAalto!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+         Santtu on aika cringe <code>pages/index.js</code>
         </p>
       </main>
-
-      <Footer />
+    
     </div>
   )
 }
